@@ -122,16 +122,12 @@ Predicts diabetes using health metrics.
 ---
 
 # 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Tejaswini8888&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswini8888&layout=compact&theme=radical)
+![Tejaswini's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tejaswini8888&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tejaswini8888&layout=compact&theme=radical)
 
----
-
-# 🔥 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejaswini8888&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejaswini8888&theme=react-dark&hide_border=true)
 
 ---
 
