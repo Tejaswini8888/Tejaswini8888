@@ -122,13 +122,9 @@ Predicts diabetes using health metrics.
 ---
 
 
-# 📊 GitHub Stats (fallback badges)
-
-# 📊 GitHub Stats (fallback badges)
+# 📊 GitHub Stats
 
 [![Open Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Tejaswini8888)
-
-[![Top Languages](https://img.shields.io/badge/Top%20Languages-Open-green)](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswini8888&layout=compact)
 
 [![Contributions](https://img.shields.io/badge/Contributions-View-informational)](https://github-readme-activity-graph.vercel.app/graph?username=Tejaswini8888)
 
