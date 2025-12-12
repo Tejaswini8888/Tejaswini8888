@@ -1,146 +1,121 @@
+<!-- Static Stylish Name -->
+<h1 align="center" style="font-size:45px; font-weight:800;">
+  Tejaswini Madarapu
+</h1>
 
-<!-- empty line for spacing -->
-![Banner](https://img.shields.io/badge/Tejaswini%20Madarapu-Machine%20Learning%20Portfolio-7F00FF?style=for-the-badge&logo=python&logoColor=white)
-
-# Tejaswini Madarapu — Machine Learning Portfolio  
-A clean & professional showcase of my Machine Learning, Data Analysis, NLP, and predictive modeling projects.
-
----
-
-## 👩‍💻 About Me
-
-I am an AIML student passionate about **Machine Learning**, **Python**, and building **real-world projects** that solve practical problems.  
-This portfolio highlights my journey from fundamentals to internship-ready ML projects.
-
-- 🔭 **Currently learning:** ML, NLP, Data Analysis  
-- 💡 **Interests:** Healthcare ML, Recommendation Systems, Fraud Detection  
-- 🎯 **Goal:** Become a Machine Learning Engineer / Data Scientist  
-
-📬 **Connect with me:**  
-**GitHub:** https://github.com/Tejaswini8888  
-**LinkedIn:** https://www.linkedin.com/in/tejaswini-madarapu/
+<!-- Dynamic Role Animation -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=26&pause=1200&color=7F00FF&center=true&vCenter=true&width=650&lines=Aspiring+ML+Engineer;Pythonic+Problem+Solver;Algorithm+Workflow+Explorer;Data+Science+Learner;AI+Enthusiast" alt="Typing Animation">
+</h3>
 
 ---
 
-# 🛠 Skills & Tools
+# 🌟 About Me  
 
-### 🧠 **Machine Learning**
-![ML](https://img.shields.io/badge/Machine%20Learning-7928CA?style=for-the-badge&logo=codefactor&logoColor=white)
-![Reg](https://img.shields.io/badge/Regression-6C63FF?style=for-the-badge)
-![Class](https://img.shields.io/badge/Classification-5A4BFF?style=for-the-badge)
-![Cluster](https://img.shields.io/badge/Clustering-3C3BFF?style=for-the-badge)
+I am an AIML student passionate about applying *Machine Learning* and *Python* to solve real-world problems.  
+I enjoy building predictive models, analyzing datasets, and understanding how ML algorithms work internally.
 
-### 🧰 **Python Libraries**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Sklearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+- 🚀 Interests: Healthcare ML, Fraud Detection, Recommendation Systems  
+- 📚 Learning: ML Algorithms • NLP Basics • Model Optimization  
+- 🎯 Goal: Become a Machine Learning Engineer / Data Scientist  
 
-### 📊 **Visualization**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-083D77?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C9F70?style=for-the-badge)
-
-### 🔧 **Other Skills**
-- EDA  
-- Feature Engineering  
-- Model Evaluation  
-- Data Cleaning  
-- ML Pipelines  
+🔗 *LinkedIn:* https://www.linkedin.com/in/tejaswini-madarapu/  
+🔗 *GitHub:* https://github.com/Tejaswini8888  
 
 ---
 
-# 📂 Machine Learning Projects
-
-Below are my ML projects grouped into **Level 1 (Fundamentals)** and **Level 2 (Internship-ready)**.
-
----
-
-#  LEVEL 1 — Beginner ML Projects
-
-### 1️⃣ **House Price Prediction (Regression)**  
-📌 Repo: https://github.com/Tejaswini8888/House_Price_Prediction  
-Predicts house prices using regression techniques.  
-**Skills:** MSE, RMSE, R², visualization  
+# 👀 Profile Visits  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tejaswini8888&label=Profile+Visits&color=7F00FF&style=for-the-badge" alt="Profile Visits Counter"/>
+</p>
 
 ---
 
-### 2️⃣ **Student Marks Prediction**  
-📌 Repo: https://github.com/Tejaswini8888/Student_Marks_Prediction  
-Predicts marks based on study hours.  
-**Skills:** Simple Linear Regression  
+# 🛠 Skills  
+
+<p align="center">
+  <!-- Languages & Tools -->
+  <img src="https://skillicons.dev/icons?i=python,anaconda,git,github,vscode" height="55"/>  
+  <br/>
+
+  <!-- ML Frameworks -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" height="55"/>
+  <br/>
+
+  <!-- Libraries -->
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Matplotlib-083D77?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C9F70?style=for-the-badge" height="30"/>
+</p>
 
 ---
 
-### 3️⃣ **Iris Flower Classification**  
-📌 Repo: https://github.com/Tejaswini8888/Iris_Flower_Classification-  
-A classic ML classification task.  
-**Skills:** Logistic Regression, confusion matrix  
+## 🔧 Other Skills
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1300&color=FF7B00&center=true&vCenter=true&width=650&lines=EDA+(Exploratory+Data+Analysis);Feature+Engineering;Model+Evaluation;Data+Cleaning;ML+Pipelines" alt="Other Skills Typing Animation" />
+</p>
 
 ---
 
-### 4️⃣ **Matplotlib Data Visualization**  
-📌 Repo: https://github.com/Tejaswini8888/Matplotlib_mini_project  
-Exploratory data visualization using matplotlib.  
+# 🔥 Featured ML Projects  
+
+### ⭐ *1. Credit Card Fraud Detection*  
+Detecting fraudulent transactions in highly imbalanced datasets.  
+*Skills:* Random Forest, SMOTE, AUC-ROC  
 
 ---
 
-# LEVEL 2 — Intermediate ML Projects (Internship Ready)
-
-### 5️⃣ **Heart Disease Prediction**  
-📌 Repo: https://github.com/Tejaswini8888/Heart_Disease_Prediction  
-Predicts heart disease using medical attributes.  
-**Skills:** Random Forest, scaling, evaluation metrics  
+### ⭐ *2. Heart Disease Prediction*  
+Predicting heart disease risk using ML techniques.  
+*Skills:* Random Forest, Logistic Regression  
 
 ---
 
-### 6️⃣ **Customer Segmentation (K-Means Clustering)**  
-📌 Repo: https://github.com/Tejaswini8888/Customer_Segmentation  
-Groups customers using K-Means.  
-**Skills:** Clustering, Elbow Method  
+### ⭐ *3. Movie Recommendation System*  
+Recommending movies based on NLP similarity models.  
+*Skills:* TF-IDF, Cosine Similarity  
 
 ---
 
-### 7️⃣ **Credit Card Fraud Detection**  
-📌 Repo: https://github.com/Tejaswini8888/Credit_Card_Fraud_Detection-  
-Detects fraudulent transactions.  
-**Skills:** Random Forest, imbalanced data handling  
+# 📊 GitHub Activity Highlights  
+
+### 🟣 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejaswini8888&show_icons=true&theme=radical" height="170"/>
+</p>
+
+### 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tejaswini8888&theme=radical" height="170"/>
+</p>
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tejaswini8888&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+### 🧩 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswini8888&layout=compact&theme=radical" height="170"/>
+</p>
+
+### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejaswini8888&theme=react-dark"/>
+</p>
 
 ---
 
-### 8️⃣ **Movie Recommendation System**  
-📌 Repo: https://github.com/Tejaswini8888/Movie_Recommendation_System  
-Recommends movies using TF-IDF + Cosine Similarity.  
-**Skills:** NLP basics, similarity modeling  
+# 🎯 Vision  
+To contribute to impactful ML projects, master data science workflows, and grow into a skilled ML Engineer.
 
 ---
 
-### 9️⃣ **Diabetes Prediction**  
-📌 Repo: https://github.com/Tejaswini8888/Diabetes_Prediction  
-Predicts diabetes using health metrics.  
-**Skills:** Logistic Regression, scaling  
+# 🤝 Connect  
 
----
+🌐 *GitHub:* https://github.com/Tejaswini8888  
+🔗 *LinkedIn:* https://www.linkedin.com/in/tejaswini-madarapu/  
 
-
-# 📊 GitHub Stats
-
-[![Open Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Tejaswini8888)
-
-[![Contributions](https://img.shields.io/badge/Contributions-View-informational)](https://github-readme-activity-graph.vercel.app/graph?username=Tejaswini8888)
-
----
-
-# 🎯 My Goal
-
-To contribute to real-world data science projects and secure an internship where I can apply ML techniques to solve impactful problems.  
-I continue improving my ML and Python skills through hands-on practice.
-
----
-
-# 🤝 Let's Connect
-
-🔗 **GitHub:** https://github.com/Tejaswini8888  
-🔗 **LinkedIn:** https://www.linkedin.com/in/tejaswini-madarapu/
-
-⭐ Thanks for visiting my profile! Feel free to check out my projects ⭐
-
+<h3 align="center">⭐ Thank you for visiting my profile! ⭐</h3>
