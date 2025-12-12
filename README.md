@@ -1,3 +1,5 @@
+
+<!-- empty line for spacing -->
 ![Banner](https://img.shields.io/badge/Tejaswini%20Madarapu-Machine%20Learning%20Portfolio-7F00FF?style=for-the-badge&logo=python&logoColor=white)
 
 # Tejaswini Madarapu — Machine Learning Portfolio  
@@ -144,4 +146,6 @@ I continue improving my ML and Python skills through hands-on practice.
 
 🔗 **GitHub:** https://github.com/Tejaswini8888  
 🔗 **LinkedIn:** https://www.linkedin.com/in/tejaswini-madarapu/
+
+⭐ Thanks for visiting my profile! Feel free to check out my projects ⭐
 
