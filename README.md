@@ -12,52 +12,54 @@
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
 ## 🌟 About Me  
 
 I’m an **AIML student** passionate about solving **real-world problems** using  
 **Machine Learning, Python, and Data Science**.
 
-I enjoy:
-- building **end-to-end ML projects**
-- understanding **how algorithms work internally**
-- designing **clean, interactive ML applications**
-
-### 🎯 Career Goal  
-> Become a **Machine Learning Engineer / Data Scientist** contributing to impactful AI solutions.
-
-### 🚀 Interests  
-- Healthcare Machine Learning  
-- Fraud Detection Systems  
-- Recommendation Engines  
-- Applied AI & Model Optimization  
+- 🚀 Interests: Healthcare ML, Fraud Detection, Recommendation Systems  
+- 📚 Learning: ML Algorithms • NLP Basics • Model Optimization  
+- 🎯 Goal: Become a **Machine Learning Engineer / Data Scientist**
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/tejaswini-madarapu  
 🔗 **GitHub:** https://github.com/Tejaswini8888  
 
 ---
 
-<!-- ===================== PROFILE VIEWS ===================== -->
 ## 👀 Profile Visits  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tejaswini8888&label=Profile+Views&color=7F00FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Tejaswini8888&label=Profile+Views&color=7F00FF&style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- ===================== SKILLS ===================== -->
 ## 🛠️ Technical Skills  
 
+### 🔹 Programming & Tools
 <p align="center">
-  <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,anaconda" height="55"/>
-  <br/><br/>
-  <!-- ML -->
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" height="55"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <b>Python • Git • GitHub • VS Code</b>
+</p>
+
+---
+
+### 🔹 Machine Learning & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
+</p>
+
+<p align="center">
+  <b>Scikit-learn • TensorFlow</b>
+</p>
+
+---
+
+### 🔹 Data Science Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-083D77?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C9F70?style=for-the-badge"/>
@@ -65,43 +67,33 @@ I enjoy:
 
 ---
 
-<!-- ===================== OTHER SKILLS ===================== -->
 ## 🔧 ML Workflow Skills  
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1200&color=FF7B00&center=true&vCenter=true&width=750&lines=EDA+(Exploratory+Data+Analysis);Feature+Engineering;Model+Training+%26+Evaluation;Handling+Imbalanced+Data;ML+Pipelines+%26+Deployment" />
 </p>
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
 ## 🔥 Featured Machine Learning Projects  
 
-### ⭐ 1. Credit Card Fraud Detection  
-🔍 Detecting fraudulent transactions in **highly imbalanced datasets**  
+### ⭐ Credit Card Fraud Detection  
+Detecting fraudulent transactions in highly imbalanced datasets  
 **Tech:** Random Forest, SMOTE, AUC-ROC  
 
----
-
-### ⭐ 2. Heart Disease Prediction  
-🫀 Predicting heart disease risk using clinical features  
+### ⭐ Heart Disease Prediction  
+Predicting heart disease risk using ML models  
 **Tech:** Logistic Regression, Random Forest  
 
----
-
-### ⭐ 3. Movie Recommendation System  
-🎬 Netflix-style recommendation using NLP similarity  
+### ⭐ Movie Recommendation System  
+Netflix-style recommendation using NLP similarity  
 **Tech:** TF-IDF, Cosine Similarity, Streamlit  
 
----
-
-### ⭐ 4. AI Stroke Risk Prediction System  
-🧠 Healthcare ML app for early stroke risk assessment  
-**Tech:** Scikit-learn, Pipelines, Streamlit  
+### ⭐ AI Stroke Risk Prediction System  
+Healthcare ML app for early stroke risk assessment  
+**Tech:** Scikit-learn Pipelines, Streamlit  
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Activity  
 
 <p align="center">
@@ -126,18 +118,15 @@ I enjoy:
 
 ---
 
-<!-- ===================== VISION ===================== -->
 ## 🎯 Vision  
-
-To continuously learn, build meaningful ML systems,  
-and grow into a **skilled Machine Learning Engineer** contributing to impactful AI solutions.
+To continuously learn, build impactful ML systems,  
+and grow into a **skilled Machine Learning Engineer**.
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
-## 🤝 Let’s Connect  
+## 🤝 Connect  
 
 🌐 **GitHub:** https://github.com/Tejaswini8888  
 🔗 **LinkedIn:** https://www.linkedin.com/in/tejaswini-madarapu  
 
-<h3 align="center">⭐ Thanks for visiting my profile — let’s build something amazing! ⭐</h3>
+<h3
