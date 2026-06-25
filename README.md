@@ -86,6 +86,9 @@ I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning,
   <img src="https://img.shields.io/badge/Seaborn-4C9F70?style=for-the-badge"/>
 </p>
 
+<p align="center">
+<b>NumPy • Pandas • Matplotlib • Seaborn • EDA • Data Visualization</b>
+</p>
 ---
 
 ## 🔧 ML Workflow Skills  
