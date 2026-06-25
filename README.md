@@ -14,15 +14,25 @@
 
 ## 🌟 About Me  
 
-I’m an **AIML student** passionate about solving **real-world problems** using  
-**Machine Learning, Python, and Data Science**.
+I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning, passionate about developing end-to-end machine learning applications that solve real-world problems.
 
-- 🚀 Interests: Healthcare ML, Fraud Detection, Recommendation Systems  
-- 📚 Learning: ML Algorithms • NLP Basics • Model Optimization  
-- 🎯 Goal: Become a **Machine Learning Engineer / Data Scientist**
+💡 My interests include Healthcare AI, Fraud Detection, Recommendation Systems, Predictive Analytics, and NLP.
+
+🚀 I enjoy working across the complete ML lifecycle—from data preprocessing and feature engineering to model training, evaluation, deployment, and building interactive applications.
+
+🎯 Currently preparing for Machine Learning Engineer and Software Engineer roles while continuously learning Deep Learning and Generative AI.
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/tejaswini-madarapu  
 🔗 **GitHub:** https://github.com/Tejaswini8888  
+
+### 🌱 Currently Learning
+
+- Deep Learning
+- Neural Networks
+- MLOps
+- Docker
+- Large Language Models
+- Advanced SQL
 
 ---
 
@@ -31,28 +41,39 @@ I’m an **AIML student** passionate about solving **real-world problems** using
   <img src="https://komarev.com/ghpvc/?username=Tejaswini8888&label=Profile+Views&color=7F00FF&style=for-the-badge"/>
 </p>
 
+--- 
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" />
+</p>
+
+<p align="center">
+<b>Python • SQL • Java • C • C++</b>
+</p>
+
 ---
 
-## 🛠️ Technical Skills  
-
-### 🔹 Programming & Tools
+### 🤖 AI & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi" />
 </p>
 
 <p align="center">
-  <b>Python • Git • GitHub • VS Code</b>
+<b>TensorFlow • Scikit-learn • FastAPI • NLP • Feature Engineering • Model Evaluation</b>
 </p>
 
 ---
 
-### 🔹 Machine Learning & AI
+### ☁️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css" />
 </p>
 
 <p align="center">
-  <b>Scikit-learn • TensorFlow</b>
+<b>Git • GitHub • VS Code • Jupyter Notebook • Streamlit • Hugging Face • Netlify • Power BI</b>
 </p>
 
 ---
@@ -74,23 +95,47 @@ I’m an **AIML student** passionate about solving **real-world problems** using
 
 ---
 
-## 🔥 Featured Machine Learning Projects  
+## 🚀 Featured Projects
 
-### ⭐ Credit Card Fraud Detection  
-Detecting fraudulent transactions in highly imbalanced datasets  
-**Tech:** Random Forest, SMOTE, AUC-ROC  
+### 🤖 AI Resume Analyzer & Recruiter Dashboard
+An AI-powered resume analysis platform that evaluates ATS compatibility, extracts candidate information, performs job description matching, identifies skill gaps, and generates personalized improvement suggestions.
+\
+**Tech:** Python • FastAPI • Streamlit • NLP • Google Gemini • PDF Parsing
 
-### ⭐ Heart Disease Prediction  
-Predicting heart disease risk using ML models  
-**Tech:** Logistic Regression, Random Forest  
+---
 
-### ⭐ Movie Recommendation System  
-Netflix-style recommendation using NLP similarity  
-**Tech:** TF-IDF, Cosine Similarity, Streamlit  
+### 💳 Credit Card Fraud Detection System
+An end-to-end machine learning application for detecting fraudulent credit card transactions using imbalanced data handling, model evaluation, and an interactive analytics dashboard.
+\
+**Tech:** Python • Scikit-learn • Random Forest • SMOTE • FastAPI • Streamlit • ROC-AUC
 
-### ⭐ AI Stroke Risk Prediction System  
-Healthcare ML app for early stroke risk assessment  
-**Tech:** Scikit-learn Pipelines, Streamlit  
+---
+
+### 🩺 MedVision AI
+A deep learning application for medical image classification that predicts chest conditions from X-ray images using Convolutional Neural Networks with real-time inference.
+\
+**Tech:** TensorFlow • CNN • Computer Vision • Python • HTML • CSS
+
+---
+
+### 🧠 AI Stroke Risk Prediction System
+A healthcare machine learning application that predicts stroke risk using clinical data with an interactive prediction interface.
+\
+**Tech:** Python • Scikit-learn • Streamlit • Pandas • NumPy
+
+---
+
+### 🎬 Movie Recommendation System
+A content-based recommendation engine that suggests similar movies using Natural Language Processing and cosine similarity.
+\
+**Tech:** Python • TF-IDF • Cosine Similarity • NLP • Streamlit
+
+---
+
+### 📉 Customer Churn Prediction
+A machine learning model that predicts customer churn to help businesses improve customer retention through predictive analytics.
+\
+**Tech:** Python • Scikit-learn • Pandas • Matplotlib 
 
 ---
 
@@ -119,14 +164,25 @@ Healthcare ML app for early stroke risk assessment
 ---
 
 ## 🎯 Vision  
-To continuously learn, build impactful ML systems,  
-and grow into a **skilled Machine Learning Engineer**.
+
+To design and develop innovative software applications and AI-powered solutions that create meaningful impact, while continuously improving my skills in Software Engineering, Machine Learning, and modern technologies.
+w into a **skilled Machine Learning Engineer**.
 
 ---
 
-## 🤝 Connect  
+## 🤝 Let's Connect
 
-🌐 **GitHub:** https://github.com/Tejaswini8888  
-🔗 **LinkedIn:** https://www.linkedin.com/in/tejaswini-madarapu  
+<p align="center">
+  <a href="https://github.com/Tejaswini8888">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<h3
+  <a href="https://www.linkedin.com/in/tejaswini-madarapu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:tejaswinimadarapu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
