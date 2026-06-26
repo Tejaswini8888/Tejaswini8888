@@ -104,7 +104,7 @@ I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning,
 ### 🤖 AI Resume Analyzer & Recruiter Dashboard
 An AI-powered resume analysis platform that evaluates ATS compatibility, extracts candidate information, performs job description matching, identifies skill gaps, and generates personalized improvement suggestions.
 \
-**Tech:** Python • FastAPI • Streamlit • NLP • Google Gemini • PDF Parsing
+**Tech:** Python • FastAPI • Streamlit • NLP •GROQ • PDF Parsing
 
 ---
 
