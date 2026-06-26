@@ -170,7 +170,6 @@ A machine learning model that predicts customer churn to help businesses improve
 ## 🎯 Vision  
 
 To design and develop innovative software applications and AI-powered solutions that create meaningful impact, while continuously improving my skills in Software Engineering, Machine Learning, and modern technologies.
-w into a **skilled Machine Learning Engineer**.
 
 ---
 
